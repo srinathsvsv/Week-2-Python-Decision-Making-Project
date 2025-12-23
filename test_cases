@@ -1,0 +1,27 @@
+Test Case 1:
+Input: Name = Sri, Marks = 95
+Expected Output: Grade A
+
+Test Case 2:
+Input: Name = Shravs, Marks = 89
+Expected Output: Grade B
+
+Test Case 3:
+Input: Name = Anu, Marks = 72
+Expected Output: Grade C
+
+Test Case 4:
+Input: Name = Kiran, Marks = 65
+Expected Output: Grade D
+
+Test Case 5:
+Input: Name = Veena, Marks = 40
+Expected Output: Grade F
+
+Test Case 6:
+Input: Marks = -10
+Expected Output: Validation Error
+
+Test Case 7:
+Input: Marks = abc
+Expected Output: Invalid Input Message

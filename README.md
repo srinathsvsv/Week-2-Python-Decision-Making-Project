@@ -22,10 +22,10 @@ It focuses on Python decision-making, loops, functions, and input validation by 
 
 ## 📂 Project Structure
 `Week-2-Python-Decision-Making/`
-`├── grade_calculator.py`
-`├── README.md`
-`├── test_cases.txt`
-`└── screenshots/`
+  `├── grade_calculator.py`
+  `├── README.md`
+  `├── test_cases.txt`
+  `└── screenshots/`
 
 
 ## 🧠 Grading Logic
